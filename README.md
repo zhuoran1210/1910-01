@@ -1,2 +1,4 @@
-# 1910-01
-trial for study
+$ mkdir learngit
+$ cd learngit
+$ pwd
+/Users/GitHub/learngit
