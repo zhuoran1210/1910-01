@@ -1,4 +1,2 @@
-$ mkdir learngit
-$ cd learngit
-$ pwd
-/Users/GitHub/learngit
+Git was a version control system.
+Git is a free software
